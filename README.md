@@ -2,8 +2,8 @@
 **DBank** is a decentralized banking application built on the Internet Computer (IC) blockchain. It allows users to manage their finances through a web interface, enabling actions such as checking balances, topping up accounts, and withdrawing funds. The application also supports compounding interest, demonstrating its functionality as a DeFi app.
 
 
-![a1](https://github.com/user-attachments/assets/b200d1e3-8b21-49be-9269-83afc401b3c7)
-![1](https://github.com/user-attachments/assets/6418b2b1-2862-4721-ad03-91d6ff379514)
+![a1](https://github.com/user-attachments/assets/a0799ebc-790a-44bc-93fd-2eaec2bf3663)
+![1](https://github.com/user-attachments/assets/6f1479fa-17bb-4ab9-9f7b-1dfc316cda9d)
 
 
 
