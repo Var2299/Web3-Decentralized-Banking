@@ -51,11 +51,6 @@
 - **Canister**: The project uses canisters (smart contracts on the Internet Computer) to handle the backend logic.
 - **Agent and Actor**: The `@dfinity/agent` package is used to interact with the canisters. The `createActor` function initializes the actor with the appropriate canister ID and options.
 
-## Additional Details
-- **Initial Setup**: The `currentValue` is initialized to 300, and `startTime` is set to the current time when the actor is created.
-- **Debugging**: Various `Debug.print` statements are included to log the state changes for debugging purposes.
-- **Error Handling**: The `withdraw` function includes basic error handling to ensure that withdrawals do not result in a negative balance.
-
 ## Example Usage
 - **Check Balance**: A user can query their current balance using the `checkBalance` function.
 - **Top-Up**: A user can add funds by entering an amount in the "Amount to Top Up" field and submitting the form. This triggers the `topUp` function.
